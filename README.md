@@ -1,4 +1,4 @@
-# Classroom Program
+# Java Swing Classroom Program
 
 This program is ran on the localhost where two users can be logged-in at the same time, the teacher that creates the session and one student that joins the session.
 
